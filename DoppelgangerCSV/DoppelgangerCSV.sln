@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoppelgangerCSV.Common", "DoppelgangerCSV.Common\DoppelgangerCSV.Common.csproj", "{3DB1DFD7-C8C6-4E76-9969-6552C6A05BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoppelgangerCSV.Tests", "DoppelgangerCSV.Tests\DoppelgangerCSV.Tests.csproj", "{BF300DC6-591F-4095-A055-11429F5DB57D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB1DFD7-C8C6-4E76-9969-6552C6A05BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB1DFD7-C8C6-4E76-9969-6552C6A05BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB1DFD7-C8C6-4E76-9969-6552C6A05BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB1DFD7-C8C6-4E76-9969-6552C6A05BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF300DC6-591F-4095-A055-11429F5DB57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF300DC6-591F-4095-A055-11429F5DB57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF300DC6-591F-4095-A055-11429F5DB57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF300DC6-591F-4095-A055-11429F5DB57D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
